@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="US-ASCII" ?>
+<!-- IMPORTANT: First item will be most recent project -->
+<projects-list>
+    <project>
+        <name>EQ Schools</name>
+        <url>
+            <![CDATA[http://www.eqschools.com]]>
+        </url>
+        <iconSource>
+            image-assets/project-images/eqLogo.jpg
+        </iconSource>
+        <description>
+            <![CDATA[
+            EQ Schools provides emotional intelligence training to organizations and schools.  Their mission is to promote interpersonal and leaderships skills in an effort to improve individuals, and better prepare them to handle issues arising in their business, workplace, and world.
+            ]]>
+        </description>
+    </project>
+    <project>
+        <name>Gunn Robotics Team Website</name>
+        <url>
+            <![CDATA[https://fierce-depths-99806.herokuapp.com/]]>
+        </url>
+        <iconSource>
+            image-assets/project-images/GRTLogo.svg
+        </iconSource>
+        <backgroundColor>
+            rgb(0, 0, 0);
+        </backgroundColor>
+        <description>
+            <![CDATA[
+            With over 20 years of history, GRT is a robotics team representing Gunn High School. They participate in yearly FIRST&reg; competitions, as well as regular community outreach.
+            ]]>
+        </description>
+    </project>
+    <project>
+        <name>VSEOSS</name>
+        <url>
+            <![CDATA[http://www.vseoss.org]]>
+        </url>
+        <iconSource>
+
+        </iconSource>
+        <description>
+            <![CDATA[
+            The Varun Singh Educational Open Source Series is a collection of projects intended to help users visualize and understand difficult concepts. However, the project is currently still in its early stages.
+            ]]>
+        </description>
+    </project>
+</projects-list>
